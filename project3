@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="responsive.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</head>
+<body>
+    <section>
+        <div class="container">
+            <div class="row">
+                <div class="col-4">
+                    <div  class="box-1">
+                        <div class="img-box">
+                            <div class="first">
+
+                                <div>
+                                    <img class="img-fluid image1" src="services-01.png" >
+                                </div>
+
+                                <div class="content">
+                                    <div class="font1">
+                                        <h2>
+                                            ice cubes juices
+                                         </h2>
+                                    </div>
+                                     <div class="font2">
+                                            <h6>
+                                            Add in few ice cubes . Drink is best served chilled!
+                                            </h6>
+                                     </div>                                              
+                                </div>
+                               
+                                <div >
+                                    <img class="img-fluid image2" src="services-02.png">
+                                </div>
+
+                               <div class="content">
+                                <div class="font3"> 
+                                    <h2>
+                                        Garnish Juice
+                                    </h2>
+                                </div>
+
+                                <div class="font4">
+                                    <h6>
+                                        Garnish with fresh lime a few ice cubes . served chilled!
+                                    </h6>
+                                </div>
+                               </div>
+                               
+                               <div>
+                                <img class="img-fluid image3" src="services-03.png">
+                               </div>
+
+                               <div class="content">
+                                <div class="font5">
+                                    <h2>
+                                        High ball juice 
+                                    </h2>
+                                </div>
+                                
+                                <div class="font6">
+                                    <h6>
+                                        Recommend to serve in highball . Add in a served chilled!
+                                    </h6>
+                                </div>                             
+                               </div>
+                                                              
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            
+    
+            <div class="col-4">
+                <div class="box-2">
+                    <div class="img-box">
+                        <div class="second">
+                            <div>
+                                <img class="img-fluid image" src="services-img.png">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="col-4">
+                <div class="box-3">
+                    <div class="img-box">
+                        <div class="third">
+
+                            <div>
+                                <img class="img-fluid image4" src="services-04.png">                              
+                            </div>
+
+                                <div class="content">
+                                    <h2>
+                                        100% Healthy                                    
+                                    </h2>
+                                    <h6>
+                                        Add in a few ice cubes . Drink is best served chilled!
+                                    </h6>
+                                </div>
+                            
+                                <div>
+                                    <img class="img-fluid image5" src="services-05.png">                              
+                                </div>
+    
+                                <div class="content">
+                                    <h2>
+                                        Fresh and Natural                                    
+                                    </h2>
+                                    <h6>
+                                        Garnish with fresh lime a few ice cubes . served chilled!
+                                    </h6>
+                                </div>
+
+                                <div>
+                                    <img class="img-fluid image6" src="services-06.png">                              
+                                </div>
+    
+                                <div class="content">
+                                    <h2>
+                                        Full creamy                                   
+                                    </h2>
+                                    <h6>
+                                        Recommend to serve in highball . Add in a served chilled!
+                                    </h6>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+css file
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1230px;
+    height: 580px;
+}
+
+.image1{
+    background-color:orange;
+}
+.image2{
+    background-color:blue;
+}
+.image3{
+    background-color:pink;
+}
+.image4{
+    background-color:pink;
+}
+.image5{
+    background-color:blue;
+}
+.image6{
+    background-color:orange;
+}
+
