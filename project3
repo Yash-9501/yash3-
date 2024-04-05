@@ -13,71 +13,70 @@
     <section>
         <div class="container">
             <div class="row">
-                <div class="col-4">
+                <div class="col-xl-4">
                     <div  class="box-1">
                         <div class="img-box">
                             <div class="first">
-
-                                <div>
-                                    <img class="img-fluid image1" src="services-01.png" >
-                                </div>
-
-                                <div class="content">
-                                    <div class="font1">
-                                        <h2>
-                                            ice cubes juices
-                                         </h2>
+                                <div class="box">
+                                    <div>
+                                        <img class="img-fluid image1" src="services-01.png" >
                                     </div>
-                                     <div class="font2">
-                                            <h6>
-                                            Add in few ice cubes . Drink is best served chilled!
-                                            </h6>
-                                     </div>                                              
-                                </div>
-                               
-                                <div >
-                                    <img class="img-fluid image2" src="services-02.png">
-                                </div>
-
-                               <div class="content">
-                                <div class="font3"> 
-                                    <h2>
-                                        Garnish Juice
-                                    </h2>
-                                </div>
-
-                                <div class="font4">
-                                    <h6>
-                                        Garnish with fresh lime a few ice cubes . served chilled!
-                                    </h6>
-                                </div>
-                               </div>
-                               
-                               <div>
-                                <img class="img-fluid image3" src="services-03.png">
-                               </div>
-
-                               <div class="content">
-                                <div class="font5">
-                                    <h2>
-                                        High ball juice 
-                                    </h2>
+    
+                                    <div class="content">
+                                        <div class="font1">
+                                            <h2>
+                                                Ice cubes juices
+                                            </h2> 
+                                            <p>
+                                               Add in few ice cubes . Drink is best served chilled!
+                                            </p>
+                                        </div>                                              
+                                    </div>
                                 </div>
                                 
-                                <div class="font6">
-                                    <h6>
-                                        Recommend to serve in highball . Add in a served chilled!
-                                    </h6>
-                                </div>                             
-                               </div>
-                                                              
+                                <div class="box">
+                                    <div >
+                                        <img class="img-fluid image2" src="services-02.png">
+                                    </div>
+    
+                                   <div class="content">
+                                    <div class="font1"> 
+                                        <h2>
+                                            Garnish Juice
+                                        </h2>
+                                    
+                                        <p>
+                                            Garnish with fresh lime a few ice cubes . served chilled!
+                                        </p>
+                                    </div>
+                                   </div>
+                                </div>
+                                   
+                                <div class="box">
+                                    <div>
+                                        <img class="img-fluid image3" src="services-03.png">
+                                       </div>
+        
+                                       <div class="content">
+                                        <div class="font1">
+                                            <h2>
+                                                High ball juice 
+                                            </h2>
+                                       
+                                            <p>
+                                                Recommend to serve in highball . Add in a served chilled!
+                                            </p>
+                                        </div>                             
+                                       </div>
+                                </div>  
+                                   
                             </div>
                         </div>
                     </div>
                 </div>
             
     
-            <div class="col-4">
+            <div class="col-xl-4">
                 <div class="box-2">
                     <div class="img-box">
                         <div class="second">
@@ -89,50 +88,66 @@
                 </div>
             </div>
     
-            <div class="col-4">
+            <div class="col-xl-4">
                 <div class="box-3">
                     <div class="img-box">
                         <div class="third">
-
-                            <div>
-                                <img class="img-fluid image4" src="services-04.png">                              
-                            </div>
-
-                                <div class="content">
-                                    <h2>
-                                        100% Healthy                                    
-                                    </h2>
-                                    <h6>
-                                        Add in a few ice cubes . Drink is best served chilled!
-                                    </h6>
+                            <div class="box">
+                                <div>
+                                    <img class="img-fluid image4" src="services-04.png">                              
                                 </div>
+    
+                                    <div class="content">
+                                        <div class="font1">
+                                            <h2>
+                                                100% Healthy                                    
+                                            </h2>
+                                      
+                                            <p>
+                                                Add in a few ice cubes . Drink is best served chilled!
+                                            </p>
+                                        </div>
+                                       
+                                    </div>
+                            </div>
                             
+                            <div class="box">
                                 <div>
                                     <img class="img-fluid image5" src="services-05.png">                              
                                 </div>
     
                                 <div class="content">
-                                    <h2>
-                                        Fresh and Natural                                    
-                                    </h2>
-                                    <h6>
-                                        Garnish with fresh lime a few ice cubes . served chilled!
-                                    </h6>
-                                </div>
+                                    <div class="font1">
+                                        <h2>
+                                            Fresh and Natural                                    
+                                        </h2>
+                                   
+                                        <p>
+                                            Garnish with fresh lime a few ice cubes . served chilled!
+                                        </p>
+                                    </div>
 
+                                </div>
+                            </div>
+                               
+                            <div class="box">
                                 <div>
                                     <img class="img-fluid image6" src="services-06.png">                              
                                 </div>
     
                                 <div class="content">
-                                    <h2>
-                                        Full creamy                                   
-                                    </h2>
-                                    <h6>
-                                        Recommend to serve in highball . Add in a served chilled!
-                                    </h6>
+                                    <div class="font1">
+                                        <h2>
+                                            Full creamy                                   
+                                        </h2>
+                                   
+                                        <p>
+                                            Recommend to serve in highball . Add in a served chilled!
+                                        </p>
+                                    </div>
+                                    
                                 </div>
-
+                            </div>
                             </div>
                         </div>
                     </div>
@@ -165,21 +180,66 @@ css file
 }
 
 .image1{
-    background-color:orange;
+    background-color:#ffa5008c;
+    border-radius: 50%;
+    padding: 25px;
+    border-style: dashed;
+    border-color: #ffa5008c;
 }
+
 .image2{
-    background-color:blue;
+    background-color:#005aff5e;
+    border-radius: 50%;
+    padding: 25px;
 }
 .image3{
     background-color:pink;
+    border-radius: 50%;
+    padding: 25px;
 }
 .image4{
     background-color:pink;
+    border-radius: 50%;
+    padding: 25px;
 }
 .image5{
-    background-color:blue;
+    background-color:#005aff5e;
+    border-radius: 50%;
+    padding: 25px;
 }
 .image6{
-    background-color:orange;
+    background-color:#ffa5008c;
+    border-radius: 50%;
+    padding: 25px;
+
 }
 
+.font1 h2{
+    font-size: 20px;
+    font-family: Comic sans MS;
+    font-weight: bolder;
+    margin-left: 10%;
+    text-align: left;
+}
+
+.font1 p{
+    font-size: 15px;
+    font-family: Comic sans MS;
+    font-weight: lighter;
+    margin-left: 10%;
+    text-align: left;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+responsive file
