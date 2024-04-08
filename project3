@@ -177,12 +177,44 @@ css file
 .container{
     width: 1230px;
     height: 580px;
+    display: flex;
 }
-.image{
+.img1{
     padding: 5px;
     border:1px dashed #ffa500;
     border-radius: 50%;
 }
+
+.img2{
+    padding: 5px;
+    border:1px dashed #005aff;
+    border-radius: 50%;
+}
+
+.img3{
+    padding: 5px;
+    border:1px dashed #ff23bb;
+    border-radius: 50%;
+}
+
+.img4{
+    padding: 5px;
+    border:1px dashed #ff23bb;
+    border-radius: 50%;
+}
+
+.img5{
+    padding: 5px;
+    border:1px dashed #005aff;
+    border-radius: 50%;
+}
+
+.img6{
+    padding: 5px;
+    border:1px dashed #ffa500;
+    border-radius: 50%;
+}
+
 .image1{
     background-color:#ffa500;
     border-radius: 50%;
@@ -241,13 +273,10 @@ css file
     margin-top: 10%;
     margin-bottom: 10%;
 }
-
+/*
 .second{
-
-}
-    margin-top: 10%;
-    margin-bottom: 10%;
-}
+    order: 2;
+}*/
 
 
 
