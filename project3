@@ -13,92 +13,87 @@
     <section>
         <div class="container">
             <div class="row">
-                <div class="col-xl-4">
-                    <div  class="box-1">
-                        <div class="img-box">
-                            <div class="first">
-                                <div class="box">
-                                    <div>
-                                        <img class="img-fluid image1" src="services-01.png" >
-                                    </div>
-    
-                                    <div class="content">
-                                        <div class="font1">
-                                            <h2>
-                                                Ice cubes juices
-                                            </h2> 
-                                            <p>
-                                               Add in few ice cubes . Drink is best served chilled!
-                                            </p>
-                                        </div>                                              
-                                    </div>
-                                </div>
-                                
-                                <div class="box">
-                                    <div >
-                                        <img class="img-fluid image2" src="services-02.png">
-                                    </div>
-    
-                                   <div class="content">
-                                    <div class="font1"> 
-                                        <h2>
-                                            Garnish Juice
-                                        </h2>
-                                    
-                                        <p>
-                                            Garnish with fresh lime a few ice cubes . served chilled!
-                                        </p>
-                                    </div>
-                                   </div>
-                                </div>
-                                   
-                                <div class="box">
-                                    <div>
-                                        <img class="img-fluid image3" src="services-03.png">
-                                       </div>
-        
-                                       <div class="content">
-                                        <div class="font1">
-                                            <h2>
-                                                High ball juice 
-                                            </h2>
-                                       
-                                            <p>
-                                                Recommend to serve in highball . Add in a served chilled!
-                                            </p>
-                                        </div>                             
-                                       </div>
-                                </div>  
-                                   
+                <div class="col-lg-4">
+                    <div class="first">
+                        <div class="box">
+                            <div class="img1">
+                                <img class="img-fluid image1" src="services-01.png" >
+                            </div>
+
+                            <div class="content">
+                                <div class="font1">
+                                    <h2>
+                                        Ice cubes juices
+                                    </h2> 
+                                    <p>
+                                       Add in few ice cubes . Drink is best served chilled!
+                                    </p>
+                                </div>                                              
                             </div>
                         </div>
+                        
+                        <div class="box">
+                            <div class="img2">
+                                <img class="img-fluid image2" src="services-02.png">
+                            </div>
+
+                           <div class="content">
+                            
+                                <h2>
+                                    Garnish Juice
+                                </h2>
+                            
+                                <p>
+                                    Garnish with fresh lime a few ice cubes . served chilled!
+                                </p>
+                            
+                           </div>
+                        </div>
+                           
+                        <div class="box">
+                               <div  class="img3">
+                                <img class="img-fluid image3" src="services-03.png">
+                               </div>
+
+                               <div class="content">
+                               
+                                    <h2>
+                                        High ball juice 
+                                    </h2>
+                               
+                                    <p>
+                                        Recommend to serve in highball . Add in a served chilled!
+                                    </p>
+                                                          
+                               </div>
+                        </div>  
+                           
                     </div>
                 </div>
             
-    
-            <div class="col-xl-4">
+            <div class="col-lg-4 c1">
                 <div class="box-2">
                     <div class="img-box">
                         <div class="second">
-                            <div>
+                            <div class="img4">
                                 <img class="img-fluid image" src="services-img.png">
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+           
     
-            <div class="col-xl-4">
+            <div class="col-lg-4">
                 <div class="box-3">
-                    <div class="img-box">
                         <div class="third">
                             <div class="box">
-                                <div>
+                                <div class="img5">
                                     <img class="img-fluid image4" src="services-04.png">                              
                                 </div>
     
                                     <div class="content">
-                                        <div class="font1">
+                                        
                                             <h2>
                                                 100% Healthy                                    
                                             </h2>
@@ -106,18 +101,18 @@
                                             <p>
                                                 Add in a few ice cubes . Drink is best served chilled!
                                             </p>
-                                        </div>
+                                       
                                        
                                     </div>
                             </div>
                             
                             <div class="box">
-                                <div>
+                                <div class="img6">
                                     <img class="img-fluid image5" src="services-05.png">                              
                                 </div>
     
                                 <div class="content">
-                                    <div class="font1">
+                                   
                                         <h2>
                                             Fresh and Natural                                    
                                         </h2>
@@ -125,18 +120,18 @@
                                         <p>
                                             Garnish with fresh lime a few ice cubes . served chilled!
                                         </p>
-                                    </div>
+                                  
 
                                 </div>
                             </div>
                                
                             <div class="box">
-                                <div>
+                                <div class="img7">
                                     <img class="img-fluid image6" src="services-06.png">                              
                                 </div>
     
                                 <div class="content">
-                                    <div class="font1">
+                                   
                                         <h2>
                                             Full creamy                                   
                                         </h2>
@@ -144,13 +139,12 @@
                                         <p>
                                             Recommend to serve in highball . Add in a served chilled!
                                         </p>
-                                    </div>
+                                    
                                     
                                 </div>
                             </div>
                             </div>
                         </div>
-                    </div>
                 </div>
             </div>
             </div>
@@ -158,7 +152,6 @@
     </section>
 </body>
 </html>
-
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -175,44 +168,50 @@ css file
 }
 
 .container{
-    width: 1230px;
-    height: 580px;
-    display: flex;
+    margin: 5%;
+    width: 100%;  
+    height: 580px
 }
 .img1{
     padding: 5px;
     border:1px dashed #ffa500;
     border-radius: 50%;
+    height: 100%;
 }
 
 .img2{
     padding: 5px;
     border:1px dashed #005aff;
     border-radius: 50%;
+    height: 100%;
 }
 
 .img3{
     padding: 5px;
     border:1px dashed #ff23bb;
     border-radius: 50%;
-}
-
-.img4{
-    padding: 5px;
-    border:1px dashed #ff23bb;
-    border-radius: 50%;
+    height: 100%;
 }
 
 .img5{
     padding: 5px;
-    border:1px dashed #005aff;
+    border:1px dashed #ff23bb;
     border-radius: 50%;
+    height: 100%;
 }
 
 .img6{
     padding: 5px;
+    border:1px dashed #005aff;
+    border-radius: 50%;
+    height: 100%;
+}
+
+.img7{
+    padding: 5px;
     border:1px dashed #ffa500;
     border-radius: 50%;
+    height: 100%;
 }
 
 .image1{
@@ -252,7 +251,7 @@ css file
 
 }
 
-.font1 h2{
+.content h2{
     font-size: 20px;
     font-family: Comic sans MS;
     font-weight: bolder;
@@ -260,7 +259,7 @@ css file
     text-align: left;
 }
 
-.font1 p{
+.content p{
     font-size: 15px;
     font-family: Comic sans MS;
     font-weight: lighter;
@@ -268,16 +267,18 @@ css file
     text-align: left;
 }
 
+.content{
+    margin-top: 2%;
+}
+
 .box{
     display: flex;
-    margin-top: 10%;
-    margin-bottom: 10%;
+    margin-top: 5%;
 }
-/*
-.second{
-    order: 2;
-}*/
 
+/*
+width: 1230px;
+    height: 580px;*/
 
 
 
@@ -285,3 +286,53 @@ css file
 --------------------------------------------------------------------------------------------------------------------------------
 
 responsive file
+
+
+
+@media (max-width: 1400px){ 
+
+}
+
+@media (max-width: 1199px){
+
+    .container{
+        margin-top: 5%;
+        display: flex;
+        flex-direction:column;       
+    }
+}
+
+@media (max-width: 991px){
+
+    .container{
+        display: flex;
+        flex-direction:column;   
+    }
+    .c1{
+        order: -1;
+    }
+    
+}
+
+@media (max-width: 767px){ 
+
+    .container{
+        display: flex;
+        flex-direction:column;       
+    } 
+    .c1{
+        order: -1;
+    }
+}
+
+@media (max-width: 575px){
+    
+    .container{
+        display: flex;
+        flex-direction:column;       
+    }
+    .c1{
+        order: -1;
+    }
+}
+
